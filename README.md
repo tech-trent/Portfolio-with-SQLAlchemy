@@ -1,4 +1,6 @@
-# Treehouse-Python-Techdegree-Project-5
+# Portfolio-with-SQLAlchemy
+Treehouse - Python Techdegree (Project 5)
+
 A web app designed to keep and alter detailed records about what the user has learned, which makes extensive use of "Flask" and the "Peewee ORM".
 
 Users are able to:
